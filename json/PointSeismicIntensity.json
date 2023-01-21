@@ -15876,11 +15876,11 @@
       "seisSaibunKana": "そらちちほうなんぶ",
       "seisSaibunName": "空知地方南部"
     },
-    "0121020": {
+    "0121021": {
       "cityCode": "0121000",
       "cityKana": "いわみざわし",
       "cityName": "岩見沢市",
-      "code": "0121020",
+      "code": "0121021",
       "kana": "いわみざわしはとがおか",
       "lnglat": [
         141.78,
@@ -16206,17 +16206,17 @@
       "seisSaibunKana": "もんべつちほう",
       "seisSaibunName": "紋別地方"
     },
-    "0121920": {
+    "0121921": {
       "cityCode": "0121900",
       "cityKana": "もんべつし",
       "cityName": "紋別市",
-      "code": "0121920",
-      "kana": "もんべつしさいわいちょう",
+      "code": "0121921",
+      "kana": "もんべつしきたはまちょう",
       "lnglat": [
         143.35,
-        44.36
+        44.37
       ],
-      "name": "紋別市幸町",
+      "name": "紋別市北浜町",
       "seisSaibunCode": "142",
       "seisSaibunKana": "もんべつちほう",
       "seisSaibunName": "紋別地方"
@@ -20751,21 +20751,6 @@
       "seisSaibunKana": "あおもりけんつがるなんぶ",
       "seisSaibunName": "青森県津軽南部"
     },
-    "0221031": {
-      "cityCode": "0221000",
-      "cityKana": "ひらかわし",
-      "cityName": "平川市",
-      "code": "0221031",
-      "kana": "ひらかわしかしわぎまち",
-      "lnglat": [
-        140.57,
-        40.58
-      ],
-      "name": "平川市柏木町",
-      "seisSaibunCode": "201",
-      "seisSaibunKana": "あおもりけんつがるなんぶ",
-      "seisSaibunName": "青森県津軽南部"
-    },
     "0221033": {
       "cityCode": "0221000",
       "cityKana": "ひらかわし",
@@ -20777,6 +20762,21 @@
         40.4791
       ],
       "name": "平川市碇ヶ関",
+      "seisSaibunCode": "201",
+      "seisSaibunKana": "あおもりけんつがるなんぶ",
+      "seisSaibunName": "青森県津軽南部"
+    },
+    "0221034": {
+      "cityCode": "0221000",
+      "cityKana": "ひらかわし",
+      "cityName": "平川市",
+      "code": "0221034",
+      "kana": "ひらかわしかしわぎまち",
+      "lnglat": [
+        140.57,
+        40.58
+      ],
+      "name": "平川市柏木町",
       "seisSaibunCode": "201",
       "seisSaibunKana": "あおもりけんつがるなんぶ",
       "seisSaibunName": "青森県津軽南部"
@@ -25289,7 +25289,7 @@
       "kana": "あきたみさとちょうろくごうひがしね",
       "lnglat": [
         140.63,
-        39.4
+        39.39833333333333
       ],
       "name": "秋田美郷町六郷東根",
       "seisSaibunCode": "233",
@@ -28146,17 +28146,17 @@
       "seisSaibunKana": "ふくしまけんはまどおり",
       "seisSaibunName": "福島県浜通り"
     },
-    "0754632": {
+    "0754633": {
       "cityCode": "0754600",
       "cityKana": "ふたばまち",
       "cityName": "双葉町",
-      "code": "0754632",
-      "kana": "ふたばまちもろたけ",
+      "code": "0754633",
+      "kana": "ふたばまちながつか",
       "lnglat": [
-        141.02,
-        37.47
+        141.01,
+        37.45
       ],
-      "name": "双葉町両竹",
+      "name": "双葉町長塚",
       "seisSaibunCode": "251",
       "seisSaibunKana": "ふくしまけんはまどおり",
       "seisSaibunName": "福島県浜通り"
@@ -33801,6 +33801,36 @@
       "seisSaibunKana": "ちばけんほくとうぶ",
       "seisSaibunName": "千葉県北東部"
     },
+    "1220320": {
+      "cityCode": "1220300",
+      "cityKana": "いちかわし",
+      "cityName": "市川市",
+      "code": "1220320",
+      "kana": "いちかわしおおまち",
+      "lnglat": [
+        139.97,
+        35.77
+      ],
+      "name": "市川市大町",
+      "seisSaibunCode": "341",
+      "seisSaibunKana": "ちばけんほくせいぶ",
+      "seisSaibunName": "千葉県北西部"
+    },
+    "1220321": {
+      "cityCode": "1220300",
+      "cityKana": "いちかわし",
+      "cityName": "市川市",
+      "code": "1220321",
+      "kana": "いちかわしほんぎょうとく",
+      "lnglat": [
+        139.9176,
+        35.6948
+      ],
+      "name": "市川市本行徳",
+      "seisSaibunCode": "341",
+      "seisSaibunKana": "ちばけんほくせいぶ",
+      "seisSaibunName": "千葉県北西部"
+    },
     "1220332": {
       "cityCode": "1220300",
       "cityKana": "いちかわし",
@@ -35766,15 +35796,15 @@
       "seisSaibunKana": "とうきょうとにじゅうさんく",
       "seisSaibunName": "東京都２３区"
     },
-    "1311101": {
+    "1311102": {
       "cityCode": "1311100",
       "cityKana": "とうきょうおおたく",
       "cityName": "東京大田区",
-      "code": "1311101",
+      "code": "1311102",
       "kana": "とうきょうこくさいくうこう",
       "lnglat": [
-        139.78166666666667,
-        35.555
+        139.8,
+        35.535
       ],
       "name": "東京国際空港",
       "seisSaibunCode": "350",
@@ -40626,11 +40656,11 @@
       "seisSaibunKana": "にいがたけんちゅうえつ",
       "seisSaibunName": "新潟県中越"
     },
-    "1522631": {
+    "1522632": {
       "cityCode": "1522600",
       "cityKana": "みなみうおぬまし",
       "cityName": "南魚沼市",
-      "code": "1522631",
+      "code": "1522632",
       "kana": "みなみうおぬまししおざわちょうしゃ",
       "lnglat": [
         138.8461,
@@ -40941,15 +40971,15 @@
       "seisSaibunKana": "とやまけんとうぶ",
       "seisSaibunName": "富山県東部"
     },
-    "1620101": {
+    "1620102": {
       "cityCode": "1620100",
       "cityKana": "とやまし",
       "cityName": "富山市",
-      "code": "1620101",
+      "code": "1620102",
       "kana": "とやましやつおまちふくじま",
       "lnglat": [
-        137.14,
-        36.585
+        137.13666666666666,
+        36.583333333333336
       ],
       "name": "富山市八尾町福島",
       "seisSaibunCode": "380",
@@ -46217,6 +46247,21 @@
         36.76
       ],
       "name": "飯綱町芋川",
+      "seisSaibunCode": "420",
+      "seisSaibunKana": "ながのけんほくぶ",
+      "seisSaibunName": "長野県北部"
+    },
+    "2059033": {
+      "cityCode": "2059000",
+      "cityKana": "いいづなまち",
+      "cityName": "飯綱町",
+      "code": "2059033",
+      "kana": "いいづなまちむれ",
+      "lnglat": [
+        138.24,
+        36.75
+      ],
+      "name": "飯綱町牟礼",
       "seisSaibunCode": "420",
       "seisSaibunKana": "ながのけんほくぶ",
       "seisSaibunName": "長野県北部"
@@ -52431,21 +52476,6 @@
       "seisSaibunKana": "みえけんちゅうぶ",
       "seisSaibunName": "三重県中部"
     },
-    "2421636": {
-      "cityCode": "2421600",
-      "cityKana": "いがし",
-      "cityName": "伊賀市",
-      "code": "2421636",
-      "kana": "いがしあお",
-      "lnglat": [
-        136.18,
-        34.67
-      ],
-      "name": "伊賀市阿保",
-      "seisSaibunCode": "461",
-      "seisSaibunKana": "みえけんちゅうぶ",
-      "seisSaibunName": "三重県中部"
-    },
     "2421637": {
       "cityCode": "2421600",
       "cityKana": "いがし",
@@ -52487,6 +52517,21 @@
         34.83
       ],
       "name": "伊賀市馬場",
+      "seisSaibunCode": "461",
+      "seisSaibunKana": "みえけんちゅうぶ",
+      "seisSaibunName": "三重県中部"
+    },
+    "2421640": {
+      "cityCode": "2421600",
+      "cityKana": "いがし",
+      "cityName": "伊賀市",
+      "code": "2421640",
+      "kana": "いがしあお",
+      "lnglat": [
+        136.18,
+        34.67
+      ],
+      "name": "伊賀市阿保",
       "seisSaibunCode": "461",
       "seisSaibunKana": "みえけんちゅうぶ",
       "seisSaibunName": "三重県中部"
@@ -55311,11 +55356,11 @@
       "seisSaibunKana": "おおさかふなんぶ",
       "seisSaibunName": "大阪府南部"
     },
-    "2714530": {
+    "2714531": {
       "cityCode": "2714500",
       "cityKana": "おおさかさかいしみなみく",
       "cityName": "大阪堺市南区",
-      "code": "2714530",
+      "code": "2714531",
       "kana": "おおさかさかいしみなみくももやまだい",
       "lnglat": [
         135.49,
@@ -64701,11 +64746,11 @@
       "seisSaibunKana": "やまぐちけんせいぶ",
       "seisSaibunName": "山口県西部"
     },
-    "3520232": {
+    "3520233": {
       "cityCode": "3520200",
       "cityKana": "うべし",
       "cityName": "宇部市",
-      "code": "3520232",
+      "code": "3520233",
       "kana": "うべしときわちょう",
       "lnglat": [
         131.25,
@@ -64836,11 +64881,11 @@
       "seisSaibunKana": "やまぐちけんちゅうぶ",
       "seisSaibunName": "山口県中部"
     },
-    "3520347": {
+    "3520348": {
       "cityCode": "3520300",
       "cityKana": "やまぐちし",
       "cityName": "山口市",
-      "code": "3520347",
+      "code": "3520348",
       "kana": "やまぐちしあじす",
       "lnglat": [
         131.36,
@@ -65616,11 +65661,11 @@
       "seisSaibunKana": "やまぐちけんとうぶ",
       "seisSaibunName": "山口県東部"
     },
-    "3534132": {
+    "3534133": {
       "cityCode": "3534100",
       "cityKana": "かみのせきちょう",
       "cityName": "上関町",
-      "code": "3534132",
+      "code": "3534133",
       "kana": "かみのせきちょうながしま",
       "lnglat": [
         132.11,
@@ -65646,11 +65691,11 @@
       "seisSaibunKana": "やまぐちけんとうぶ",
       "seisSaibunName": "山口県東部"
     },
-    "3534432": {
+    "3534433": {
       "cityCode": "3534400",
       "cityKana": "ひらおちょう",
       "cityName": "平生町",
-      "code": "3534432",
+      "code": "3534433",
       "kana": "ひらおちょうひらお",
       "lnglat": [
         132.07,
@@ -71181,11 +71226,11 @@
       "seisSaibunKana": "ふくおかけんちくご",
       "seisSaibunName": "福岡県筑後"
     },
-    "4054430": {
+    "4054431": {
       "cityCode": "4054400",
       "cityKana": "ふくおかひろかわまち",
       "cityName": "福岡広川町",
-      "code": "4054430",
+      "code": "4054431",
       "kana": "ふくおかひろかわまちにいしろ",
       "lnglat": [
         130.55,
@@ -73131,21 +73176,6 @@
       "seisSaibunKana": "ながさきけんごとう",
       "seisSaibunName": "長崎県五島"
     },
-    "4221133": {
-      "cityCode": "4221100",
-      "cityKana": "ごとうし",
-      "cityName": "五島市",
-      "code": "4221133",
-      "kana": "ごとうしなるまち",
-      "lnglat": [
-        128.94,
-        32.83
-      ],
-      "name": "五島市奈留町",
-      "seisSaibunCode": "737",
-      "seisSaibunKana": "ながさきけんごとう",
-      "seisSaibunName": "長崎県五島"
-    },
     "4221134": {
       "cityCode": "4221100",
       "cityKana": "ごとうし",
@@ -73172,6 +73202,21 @@
         32.74
       ],
       "name": "五島市三井楽町",
+      "seisSaibunCode": "737",
+      "seisSaibunKana": "ながさきけんごとう",
+      "seisSaibunName": "長崎県五島"
+    },
+    "4221136": {
+      "cityCode": "4221100",
+      "cityKana": "ごとうし",
+      "cityName": "五島市",
+      "code": "4221136",
+      "kana": "ごとうしなるまち",
+      "lnglat": [
+        128.93,
+        32.83
+      ],
+      "name": "五島市奈留町",
       "seisSaibunCode": "737",
       "seisSaibunKana": "ながさきけんごとう",
       "seisSaibunName": "長崎県五島"
@@ -75426,11 +75471,11 @@
       "seisSaibunKana": "おおいたけんほくぶ",
       "seisSaibunName": "大分県北部"
     },
-    "4420321": {
+    "4420322": {
       "cityCode": "4420300",
       "cityKana": "なかつし",
       "cityName": "中津市",
-      "code": "4420321",
+      "code": "4420322",
       "kana": "なかつしやばけいまち",
       "lnglat": [
         131.11,
@@ -76491,21 +76536,6 @@
       "seisSaibunKana": "みやざきけんなんぶへいやぶ",
       "seisSaibunName": "宮崎県南部平野部"
     },
-    "4520131": {
-      "cityCode": "4520100",
-      "cityKana": "みやざきし",
-      "cityName": "宮崎市",
-      "code": "4520131",
-      "kana": "みやざきしさどわらちょうしもたじま",
-      "lnglat": [
-        131.47,
-        32.02
-      ],
-      "name": "宮崎市佐土原町下田島",
-      "seisSaibunCode": "762",
-      "seisSaibunKana": "みやざきけんなんぶへいやぶ",
-      "seisSaibunName": "宮崎県南部平野部"
-    },
     "4520135": {
       "cityCode": "4520100",
       "cityKana": "みやざきし",
@@ -76547,6 +76577,21 @@
         31.86
       ],
       "name": "宮崎市清武町船引",
+      "seisSaibunCode": "762",
+      "seisSaibunKana": "みやざきけんなんぶへいやぶ",
+      "seisSaibunName": "宮崎県南部平野部"
+    },
+    "4520138": {
+      "cityCode": "4520100",
+      "cityKana": "みやざきし",
+      "cityName": "宮崎市",
+      "code": "4520138",
+      "kana": "みやざきしさどわらちょうしもたじま",
+      "lnglat": [
+        131.47,
+        32.02
+      ],
+      "name": "宮崎市佐土原町下田島",
       "seisSaibunCode": "762",
       "seisSaibunKana": "みやざきけんなんぶへいやぶ",
       "seisSaibunName": "宮崎県南部平野部"

@@ -65,6 +65,7 @@ SHEET_NAME_MAP: dict[str, str] = {
     "23": "AreaInformationPrefectureEarthquake",
     "24": "PointSeismicIntensity",
     "25": "PointRealtimeSeismicIntensity",
+    "26": "PointSeismicLgIntensity",
     "31": "AreaTsunami",
     "34": "CoastTsunami",
     "35": "PointTsunami",

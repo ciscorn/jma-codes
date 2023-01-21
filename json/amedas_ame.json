@@ -863,7 +863,7 @@
     "14296": {
       "address": "千歳市美々 新千歳航空測候所",
       "altitude": 22,
-      "anemometerHeight": 9.8,
+      "anemometerHeight": 10.0,
       "kana": "チトセ",
       "kind": "官",
       "lat": 42.775,
@@ -913,9 +913,24 @@
       "lat": 43.815,
       "lng": 141.92666666666668,
       "name": "石狩沼田",
+      "note1": 15935.0,
       "note2": "湿度を除く",
       "regionalBreau": "空知",
       "startDate": "#昭51.4.1",
+      "thermometerHeight": 1.5
+    },
+    "15156": {
+      "address": "雨竜郡秩父別町5条",
+      "altitude": 51,
+      "anemometerHeight": 7.9,
+      "kana": "チップベツ",
+      "kind": "四",
+      "lat": 43.78,
+      "lng": 141.96166666666667,
+      "name": "秩父別",
+      "note1": 15940.0,
+      "regionalBreau": "空知",
+      "startDate": "令4.10.31",
       "thermometerHeight": 1.5
     },
     "15161": {
@@ -2067,13 +2082,13 @@
       "startDate": "昭58.8.2"
     },
     "20146": {
-      "address": "足寄郡陸別町陸別原野分線",
-      "altitude": 207,
-      "anemometerHeight": 8.1,
+      "address": "足寄郡陸別町陸別原野基線",
+      "altitude": 210,
+      "anemometerHeight": 10.0,
       "kana": "リクベツ",
       "kind": "四",
-      "lat": 43.468333333333334,
-      "lng": 143.73833333333334,
+      "lat": 43.471666666666664,
+      "lng": 143.75333333333333,
       "name": "陸別",
       "note1": 20900.0,
       "regionalBreau": "十勝",
@@ -3535,7 +3550,7 @@
     "32181": {
       "address": "北秋田市脇神字葈岱 大館能代航空気象観測所",
       "altitude": 84,
-      "anemometerHeight": 9.5,
+      "anemometerHeight": 10.0,
       "kana": "ワキガミ",
       "kind": "官",
       "lat": 40.19166666666667,
@@ -5755,7 +5770,7 @@
     "40046": {
       "address": "北茨城市関南町関本下",
       "altitude": 5,
-      "anemometerHeight": 10.0,
+      "anemometerHeight": 9.9,
       "kana": "キタイバラキ",
       "kind": "四",
       "lat": 36.833333333333336,
@@ -5945,7 +5960,7 @@
     "40311": {
       "address": "鉾田市安房",
       "altitude": 32,
-      "anemometerHeight": 10.0,
+      "anemometerHeight": 9.9,
       "kana": "ホコタ",
       "kind": "四",
       "lat": 36.16833333333334,
@@ -6114,18 +6129,18 @@
       "regionalBreau": "栃木",
       "startDate": "#昭50.11.27"
     },
-    "41171": {
-      "address": "日光市瀬川",
-      "altitude": 414,
+    "41172": {
+      "address": "日光市稲荷町",
+      "altitude": 561,
       "anemometerHeight": 10.0,
-      "kana": "イマイチ",
+      "kana": "ニッコウヒガシマチ",
       "kind": "四",
-      "lat": 36.72666666666667,
-      "lng": 139.67666666666668,
-      "name": "今市",
+      "lat": 36.75,
+      "lng": 139.615,
+      "name": "日光東町",
       "note2": "湿度を除く",
       "regionalBreau": "栃木",
-      "startDate": "昭53.12.21",
+      "startDate": "令4.11.16",
       "thermometerHeight": 1.5
     },
     "41181": {
@@ -6283,7 +6298,7 @@
     "42046": {
       "address": "利根郡みなかみ町藤原字屋倉",
       "altitude": 700,
-      "anemometerHeight": 10.0,
+      "anemometerHeight": 9.9,
       "kana": "フジワラ",
       "kind": "四",
       "lat": 36.86333333333333,
@@ -6297,7 +6312,7 @@
     "42091": {
       "address": "利根郡みなかみ町湯原",
       "altitude": 524,
-      "anemometerHeight": 10.2,
+      "anemometerHeight": 10.0,
       "kana": "ミナカミ",
       "kind": "四",
       "lat": 36.77333333333333,
@@ -6337,7 +6352,7 @@
     "42146": {
       "address": "沼田市井土上町",
       "altitude": 390,
-      "anemometerHeight": 10.0,
+      "anemometerHeight": 9.9,
       "kana": "ヌマタ",
       "kind": "四",
       "lat": 36.66833333333334,
@@ -6683,7 +6698,7 @@
     "44046": {
       "address": "西多摩郡奥多摩町原",
       "altitude": 530,
-      "anemometerHeight": 9.5,
+      "anemometerHeight": 9.9,
       "kana": "オゴウチ",
       "kind": "四",
       "lat": 35.791666666666664,
@@ -7026,7 +7041,7 @@
     "45116": {
       "address": "佐倉市角来字屋敷前",
       "altitude": 5,
-      "anemometerHeight": 10.4,
+      "anemometerHeight": 10.3,
       "kana": "サクラ",
       "kind": "四",
       "lat": 35.72833333333333,
@@ -7170,7 +7185,7 @@
     "45361": {
       "address": "鴨川市横渚",
       "altitude": 5,
-      "anemometerHeight": 10.0,
+      "anemometerHeight": 9.9,
       "kana": "カモガワ",
       "kind": "四",
       "lat": 35.111666666666665,
@@ -7313,7 +7328,7 @@
     "46166": {
       "address": "小田原市扇町",
       "altitude": 14,
-      "anemometerHeight": 10.0,
+      "anemometerHeight": 9.9,
       "kana": "オダワラ",
       "kind": "四",
       "lat": 35.276666666666664,
@@ -7370,7 +7385,7 @@
     "48066": {
       "address": "飯山市大字飯山字大道東",
       "altitude": 313,
-      "anemometerHeight": 10.0,
+      "anemometerHeight": 9.9,
       "kana": "イイヤマ",
       "kind": "四",
       "lat": 36.875,
@@ -7680,7 +7695,7 @@
     "48531": {
       "address": "木曽郡木曽町開田高原西野",
       "altitude": 1130,
-      "anemometerHeight": 10.0,
+      "anemometerHeight": 9.9,
       "kana": "カイダコウゲン",
       "kind": "四",
       "lat": 35.93833333333333,
@@ -7989,7 +8004,7 @@
     "49161": {
       "address": "大月市大月",
       "altitude": 364,
-      "anemometerHeight": 10.0,
+      "anemometerHeight": 9.9,
       "kana": "オオツキ",
       "kind": "四",
       "lat": 35.608333333333334,
@@ -8024,7 +8039,7 @@
     "49196": {
       "address": "甲府市古関町",
       "altitude": 552,
-      "anemometerHeight": 10.1,
+      "anemometerHeight": 10.3,
       "kana": "フルセキ",
       "kind": "四",
       "lat": 35.528333333333336,
@@ -8079,7 +8094,7 @@
     "49316": {
       "address": "南巨摩郡南部町南部",
       "altitude": 141,
-      "anemometerHeight": 9.3,
+      "anemometerHeight": 9.2,
       "kana": "ナンブ",
       "kind": "四",
       "lat": 35.288333333333334,
@@ -8397,7 +8412,7 @@
     "50476": {
       "address": "菊川市倉沢",
       "altitude": 191,
-      "anemometerHeight": 10.0,
+      "anemometerHeight": 10.1,
       "kana": "キクガワマキノハラ",
       "kind": "四",
       "lat": 34.785,
@@ -8436,7 +8451,7 @@
     "50506": {
       "address": "賀茂郡東伊豆町稲取",
       "altitude": 130,
-      "anemometerHeight": 8.5,
+      "anemometerHeight": 10.2,
       "kana": "イナトリ",
       "kind": "四",
       "lat": 34.781666666666666,
@@ -8573,7 +8588,7 @@
     "51116": {
       "address": "豊田市高町東山",
       "altitude": 75,
-      "anemometerHeight": 6.7,
+      "anemometerHeight": 6.6,
       "kana": "トヨタ",
       "kind": "四",
       "lat": 35.13166666666667,
@@ -8702,7 +8717,7 @@
     "51331": {
       "address": "豊橋市神野新田町字レノ割",
       "altitude": 3,
-      "anemometerHeight": 6.6,
+      "anemometerHeight": 6.5,
       "kana": "トヨハシ",
       "kind": "四",
       "lat": 34.75,
@@ -8893,7 +8908,7 @@
     "52221": {
       "address": "郡上市白鳥町長滝字三昧",
       "altitude": 430,
-      "anemometerHeight": 10.0,
+      "anemometerHeight": 9.9,
       "kana": "ナガタキ",
       "kind": "四",
       "lat": 35.92333333333333,
@@ -8907,7 +8922,7 @@
     "52286": {
       "address": "下呂市萩原町羽根",
       "altitude": 425,
-      "anemometerHeight": 10.0,
+      "anemometerHeight": 10.1,
       "kana": "ハギワラ",
       "kind": "四",
       "lat": 35.888333333333335,
@@ -8959,7 +8974,7 @@
     "52381": {
       "address": "本巣市根尾神所",
       "altitude": 190,
-      "anemometerHeight": 10.0,
+      "anemometerHeight": 9.9,
       "kana": "タルミ",
       "kind": "四",
       "lat": 35.638333333333335,
@@ -9093,7 +9108,7 @@
     "52571": {
       "address": "不破郡関ケ原町関ケ原",
       "altitude": 130,
-      "anemometerHeight": 10.0,
+      "anemometerHeight": 10.1,
       "kana": "セキガハラ",
       "kind": "四",
       "lat": 35.36333333333334,
@@ -9170,7 +9185,7 @@
     "53041": {
       "address": "桑名市大字江場字正金縄",
       "altitude": 3,
-      "anemometerHeight": 10.0,
+      "anemometerHeight": 9.9,
       "kana": "クワナ",
       "kind": "四",
       "lat": 35.05,
@@ -9356,7 +9371,7 @@
     "53326": {
       "address": "北牟婁郡紀北町長島",
       "altitude": 3,
-      "anemometerHeight": 10.0,
+      "anemometerHeight": 9.9,
       "kana": "キイナガシマ",
       "kind": "四",
       "lat": 34.208333333333336,
@@ -9445,7 +9460,7 @@
     "54086": {
       "address": "村上市三之町",
       "altitude": 10,
-      "anemometerHeight": 8.4,
+      "anemometerHeight": 8.3,
       "kana": "ムラカミ",
       "kind": "四",
       "lat": 38.22666666666667,
@@ -9876,7 +9891,7 @@
     "54721": {
       "address": "糸魚川市大字平",
       "altitude": 55,
-      "anemometerHeight": 10.2,
+      "anemometerHeight": 10.3,
       "kana": "ノウ",
       "kind": "四",
       "lat": 37.083333333333336,
@@ -9956,12 +9971,12 @@
       "thermometerHeight": 4.0
     },
     "54876": {
-      "address": "糸魚川市山之坊",
-      "altitude": 260,
+      "address": "糸魚川市大所",
+      "altitude": 281,
       "kana": "ヒライワ",
       "kind": "雨",
-      "lat": 36.88666666666667,
-      "lng": 137.86333333333334,
+      "lat": 36.88,
+      "lng": 137.86666666666667,
       "name": "平岩",
       "regionalBreau": "新潟",
       "startDate": "昭53.11.10"
@@ -10009,7 +10024,7 @@
     "55056": {
       "address": "魚津市六郎丸",
       "altitude": 48,
-      "anemometerHeight": 10.0,
+      "anemometerHeight": 10.2,
       "kana": "ウオヅ",
       "kind": "四",
       "lat": 36.821666666666665,
@@ -10127,7 +10142,7 @@
     "55206": {
       "address": "富山市八尾町樫尾",
       "altitude": 124,
-      "anemometerHeight": 10.1,
+      "anemometerHeight": 10.0,
       "kana": "ヤツオ",
       "kind": "四",
       "lat": 36.57,
@@ -10341,14 +10356,14 @@
       "thermometerHeight": 2.5
     },
     "56301": {
-      "address": "加賀市山中温泉菅谷町",
-      "altitude": 83,
+      "address": "加賀市山中温泉中津原町",
+      "altitude": 65,
       "anemometerHeight": 10.0,
-      "kana": "カガスガタニ",
+      "kana": "カガナカツハラ",
       "kind": "四",
-      "lat": 36.23,
-      "lng": 136.36166666666668,
-      "name": "加賀菅谷",
+      "lat": 36.26166666666666,
+      "lng": 136.39666666666668,
+      "name": "加賀中津原",
       "note1": 56915.0,
       "note2": "湿度を除く",
       "regionalBreau": "石川",
@@ -10583,7 +10598,6 @@
       "lng": 136.02833333333334,
       "name": "今津",
       "note1": 60905.0,
-      "note2": "湿度を除く",
       "regionalBreau": "滋賀",
       "startDate": "#昭53.11.16",
       "thermometerHeight": 1.5
@@ -10623,7 +10637,6 @@
       "lng": 136.34333333333333,
       "name": "米原",
       "note1": 60911.0,
-      "note2": "湿度を除く",
       "regionalBreau": "滋賀",
       "startDate": "平13.3.30",
       "thermometerHeight": 1.5
@@ -10631,7 +10644,7 @@
     "60116": {
       "address": "大津市南小松",
       "altitude": 90,
-      "anemometerHeight": 10.0,
+      "anemometerHeight": 9.9,
       "kana": "ミナミコマツ",
       "kind": "四",
       "lat": 35.235,
@@ -10688,7 +10701,7 @@
       "lat": 34.99166666666667,
       "lng": 135.91166666666666,
       "name": "大津",
-      "note2": "湿度を除く",
+      "note1": 60920.0,
       "regionalBreau": "滋賀",
       "startDate": "昭52.12.22",
       "thermometerHeight": 1.5
@@ -10799,7 +10812,7 @@
     "61187": {
       "address": "福知山市字荒河",
       "altitude": 17,
-      "anemometerHeight": 9.6,
+      "anemometerHeight": 9.5,
       "kana": "フクチヤマ",
       "kind": "四",
       "lat": 35.31166666666667,
@@ -10852,7 +10865,6 @@
       "lng": 135.55,
       "name": "美山",
       "note1": 61910.0,
-      "note2": "湿度を除く",
       "regionalBreau": "京都",
       "startDate": "昭53.11.15",
       "thermometerHeight": 1.5
@@ -10920,7 +10932,7 @@
     "61326": {
       "address": "京田辺市薪西浜",
       "altitude": 20,
-      "anemometerHeight": 10.0,
+      "anemometerHeight": 9.9,
       "kana": "キョウタナベ",
       "kind": "四",
       "lat": 34.83,
@@ -10933,7 +10945,7 @@
     "62016": {
       "address": "豊能郡能勢町地黄",
       "altitude": 235,
-      "anemometerHeight": 10.0,
+      "anemometerHeight": 9.9,
       "kana": "ノセ",
       "kind": "四",
       "lat": 34.94833333333333,
@@ -10957,7 +10969,7 @@
     "62046": {
       "address": "枚方市星丘",
       "altitude": 26,
-      "anemometerHeight": 10.0,
+      "anemometerHeight": 9.9,
       "kana": "ヒラカタ",
       "kind": "四",
       "lat": 34.80833333333333,
@@ -11010,7 +11022,7 @@
     "62091": {
       "address": "堺市堺区百舌鳥夕雲町",
       "altitude": 20,
-      "anemometerHeight": 10.1,
+      "anemometerHeight": 10.0,
       "kana": "サカイ",
       "kind": "四",
       "lat": 34.555,
@@ -11074,7 +11086,7 @@
     "63016": {
       "address": "美方郡香美町香住区森",
       "altitude": 5,
-      "anemometerHeight": 9.3,
+      "anemometerHeight": 9.2,
       "kana": "カスミ",
       "kind": "四",
       "lat": 35.625,
@@ -11112,7 +11124,7 @@
     "63071": {
       "address": "美方郡香美町村岡区宿字菟臥野",
       "altitude": 540,
-      "anemometerHeight": 6.5,
+      "anemometerHeight": 6.4,
       "kana": "ウワノコウゲン",
       "kind": "四",
       "lat": 35.431666666666665,
@@ -11155,7 +11167,6 @@
       "lng": 134.84833333333333,
       "name": "和田山",
       "note1": 63915.0,
-      "note2": "湿度を除く",
       "regionalBreau": "兵庫",
       "startDate": "#昭52.12.20",
       "thermometerHeight": 1.5
@@ -11374,7 +11385,7 @@
     "63551": {
       "address": "淡路市多賀",
       "altitude": 5,
-      "anemometerHeight": 9.3,
+      "anemometerHeight": 9.2,
       "kana": "グンゲ",
       "kind": "四",
       "lat": 34.46666666666667,
@@ -11426,7 +11437,7 @@
     "64041": {
       "address": "奈良市都祁友田町",
       "altitude": 468,
-      "anemometerHeight": 10.0,
+      "anemometerHeight": 9.9,
       "kana": "ハリ",
       "kind": "四",
       "lat": 34.605,
@@ -11486,7 +11497,7 @@
     "64127": {
       "address": "五條市三在町",
       "altitude": 190,
-      "anemometerHeight": 9.5,
+      "anemometerHeight": 9.4,
       "kana": "ゴジョウ",
       "kind": "四",
       "lat": 34.38,
@@ -11673,7 +11684,7 @@
     "65162": {
       "address": "田辺市龍神村湯ノ又",
       "altitude": 410,
-      "anemometerHeight": 6.5,
+      "anemometerHeight": 6.4,
       "kana": "リュウジン",
       "kind": "四",
       "lat": 33.945,
@@ -11711,7 +11722,7 @@
     "65256": {
       "address": "田辺市中辺路町栗栖川",
       "altitude": 160,
-      "anemometerHeight": 10.0,
+      "anemometerHeight": 9.9,
       "kana": "クリスガワ",
       "kind": "四",
       "lat": 33.791666666666664,
@@ -11799,7 +11810,7 @@
     "66046": {
       "address": "真庭市蒜山上長田",
       "altitude": 430,
-      "anemometerHeight": 6.5,
+      "anemometerHeight": 6.4,
       "kana": "カミナガタ",
       "kind": "四",
       "lat": 35.29666666666667,
@@ -11824,7 +11835,7 @@
     "66091": {
       "address": "新見市千屋",
       "altitude": 525,
-      "anemometerHeight": 10.0,
+      "anemometerHeight": 9.9,
       "kana": "チヤ",
       "kind": "四",
       "lat": 35.10333333333333,
@@ -11870,7 +11881,6 @@
       "lng": 134.325,
       "name": "今岡",
       "note1": 66915.0,
-      "note2": "湿度を除く",
       "regionalBreau": "岡山",
       "startDate": "#昭53.11.16",
       "thermometerHeight": 1.5
@@ -12106,7 +12116,7 @@
     "66501": {
       "address": "玉野市宇野",
       "altitude": 2,
-      "anemometerHeight": 6.5,
+      "anemometerHeight": 6.4,
       "kana": "タマノ",
       "kind": "四",
       "lat": 34.486666666666665,
@@ -12206,7 +12216,7 @@
     "67151": {
       "address": "山県郡北広島町大朝字大坪",
       "altitude": 399,
-      "anemometerHeight": 10.0,
+      "anemometerHeight": 9.9,
       "kana": "オオアサ",
       "kind": "四",
       "lat": 34.76833333333333,
@@ -12256,7 +12266,7 @@
     "67212": {
       "address": "山県郡安芸太田町加計字神田",
       "altitude": 210,
-      "anemometerHeight": 10.0,
+      "anemometerHeight": 9.9,
       "kana": "カケ",
       "kind": "四",
       "lat": 34.61,
@@ -12695,7 +12705,6 @@
       "lng": 133.10333333333332,
       "name": "横田",
       "note1": 68900.0,
-      "note2": "湿度を除く",
       "regionalBreau": "島根",
       "startDate": "#昭53.11.16",
       "thermometerHeight": 1.5
@@ -12721,7 +12730,6 @@
       "lng": 132.71166666666667,
       "name": "赤名",
       "note1": 68905.0,
-      "note2": "湿度を除く",
       "regionalBreau": "島根",
       "startDate": "昭53.12.5",
       "thermometerHeight": 1.5
@@ -12740,7 +12748,7 @@
     "68351": {
       "address": "邑智郡川本町川本",
       "altitude": 132,
-      "anemometerHeight": 10.0,
+      "anemometerHeight": 9.9,
       "kana": "カワモト",
       "kind": "四",
       "lat": 34.97666666666667,
@@ -12772,7 +12780,6 @@
       "lng": 132.53,
       "name": "瑞穂",
       "note1": 68910.0,
-      "note2": "湿度を除く",
       "regionalBreau": "島根",
       "startDate": "(昭51.5.19)昭53.11.22",
       "thermometerHeight": 1.5
@@ -12798,7 +12805,6 @@
       "lng": 132.10833333333332,
       "name": "弥栄",
       "note1": 68915.0,
-      "note2": "湿度を除く",
       "regionalBreau": "島根",
       "startDate": "昭53.12.1",
       "thermometerHeight": 1.5
@@ -12830,7 +12836,7 @@
     "68462": {
       "address": "益田市あけぼの東町",
       "altitude": 4,
-      "anemometerHeight": 12.4,
+      "anemometerHeight": 12.3,
       "kana": "マスダ",
       "kind": "四",
       "lat": 34.67666666666667,
@@ -12895,7 +12901,7 @@
     "69021": {
       "address": "西伯郡大山町塩津",
       "altitude": 15,
-      "anemometerHeight": 6.5,
+      "anemometerHeight": 10.0,
       "kana": "シオツ",
       "kind": "四",
       "lat": 35.52333333333333,
@@ -12909,7 +12915,7 @@
     "69041": {
       "address": "鳥取市青谷町青谷",
       "altitude": 13,
-      "anemometerHeight": 10.0,
+      "anemometerHeight": 9.9,
       "kana": "アオヤ",
       "kind": "四",
       "lat": 35.52,
@@ -12969,7 +12975,6 @@
       "lng": 133.83833333333334,
       "name": "倉吉",
       "note1": 69900.0,
-      "note2": "湿度を除く",
       "regionalBreau": "鳥取",
       "startDate": "#昭53.11.14",
       "thermometerHeight": 1.5
@@ -13057,7 +13062,7 @@
     "69246": {
       "address": "八頭郡智頭町智頭沖代",
       "altitude": 182,
-      "anemometerHeight": 6.5,
+      "anemometerHeight": 6.4,
       "kana": "チズ",
       "kind": "四",
       "lat": 35.263333333333335,
@@ -13099,7 +13104,7 @@
     "71087": {
       "address": "美馬市穴吹町口山初草",
       "altitude": 160,
-      "anemometerHeight": 9.4,
+      "anemometerHeight": 9.3,
       "kana": "アナブキ",
       "kind": "四",
       "lat": 34.04,
@@ -13216,7 +13221,7 @@
     "72061": {
       "address": "小豆郡小豆島町西村甲",
       "altitude": 20,
-      "anemometerHeight": 9.4,
+      "anemometerHeight": 9.3,
       "kana": "ウチノミ",
       "kind": "四",
       "lat": 34.471666666666664,
@@ -13750,7 +13755,7 @@
     "74271": {
       "address": "安芸市伊尾木",
       "altitude": 6,
-      "anemometerHeight": 6.5,
+      "anemometerHeight": 6.4,
       "kana": "アキ",
       "kind": "四",
       "lat": 33.48833333333334,
@@ -13813,7 +13818,7 @@
     "74361": {
       "address": "高岡郡四万十町新開町",
       "altitude": 205,
-      "anemometerHeight": 6.5,
+      "anemometerHeight": 6.4,
       "kana": "クボカワ",
       "kind": "四",
       "lat": 33.20666666666666,
@@ -13826,7 +13831,7 @@
     "74372": {
       "address": "室戸市室戸岬町",
       "altitude": 161,
-      "anemometerHeight": 21.8,
+      "anemometerHeight": 20.8,
       "kana": "ムロトミサキ",
       "kind": "官",
       "lat": 33.24666666666667,
@@ -13978,7 +13983,7 @@
     "81151": {
       "address": "山口市阿東徳佐中",
       "altitude": 310,
-      "anemometerHeight": 6.5,
+      "anemometerHeight": 10.3,
       "kana": "トクサ",
       "kind": "四",
       "lat": 34.39833333333333,
@@ -14170,7 +14175,7 @@
     "81481": {
       "address": "柳井市南浜",
       "altitude": 3,
-      "anemometerHeight": 7.9,
+      "anemometerHeight": 10.2,
       "kana": "ヤナイ",
       "kind": "四",
       "lat": 33.958333333333336,
@@ -14338,7 +14343,7 @@
     "82206": {
       "address": "田川郡添田町大字野田字大野ノ原",
       "altitude": 92,
-      "anemometerHeight": 6.5,
+      "anemometerHeight": 10.2,
       "kana": "ソエダ",
       "kind": "四",
       "lat": 33.55833333333333,
@@ -14479,7 +14484,7 @@
     "83061": {
       "address": "豊後高田市呉崎",
       "altitude": 5,
-      "anemometerHeight": 6.5,
+      "anemometerHeight": 10.2,
       "kana": "ブンゴタカダ",
       "kind": "四",
       "lat": 33.57,
@@ -14571,7 +14576,7 @@
     "83201": {
       "address": "由布市湯布院町川南",
       "altitude": 435,
-      "anemometerHeight": 6.5,
+      "anemometerHeight": 10.1,
       "kana": "ユフイン",
       "kind": "四",
       "lat": 33.25333333333333,
@@ -15100,7 +15105,7 @@
     "86101": {
       "address": "菊池市木柑子字上辻",
       "altitude": 83,
-      "anemometerHeight": 6.5,
+      "anemometerHeight": 10.2,
       "kana": "キクチ",
       "kind": "四",
       "lat": 32.945,
@@ -15161,7 +15166,6 @@
       "lng": 131.01333333333332,
       "name": "南阿蘇",
       "note1": 86901.0,
-      "note2": "湿度を除く",
       "regionalBreau": "熊本",
       "startDate": "平27.1.16",
       "thermometerHeight": 1.5
@@ -15217,13 +15221,13 @@
       "thermometerHeight": 1.5
     },
     "86236": {
-      "address": "上益城郡甲佐町大字豊内",
-      "altitude": 36,
-      "anemometerHeight": 9.9,
+      "address": "上益城郡甲佐町上早川",
+      "altitude": 52,
+      "anemometerHeight": 10.1,
       "kana": "コウサ",
       "kind": "四",
-      "lat": 32.645,
-      "lng": 130.81,
+      "lat": 32.67166666666667,
+      "lng": 130.81666666666666,
       "name": "甲佐",
       "regionalBreau": "熊本",
       "startDate": "#昭52.2.16",
@@ -15232,7 +15236,7 @@
     "86271": {
       "address": "上天草市松島町阿村",
       "altitude": 2,
-      "anemometerHeight": 8.1,
+      "anemometerHeight": 10.0,
       "kana": "マツシマ",
       "kind": "四",
       "lat": 32.515,
@@ -15307,7 +15311,7 @@
     "86451": {
       "address": "水俣市南福寺",
       "altitude": 6,
-      "anemometerHeight": 6.5,
+      "anemometerHeight": 10.2,
       "kana": "ミナマタ",
       "kind": "四",
       "lat": 32.205,
@@ -15391,7 +15395,7 @@
     "87041": {
       "address": "西臼杵郡高千穂町大字押方字宮野原",
       "altitude": 350,
-      "anemometerHeight": 8.0,
+      "anemometerHeight": 10.2,
       "kana": "タカチホ",
       "kind": "四",
       "lat": 32.711666666666666,
@@ -15419,7 +15423,7 @@
     "87071": {
       "address": "西臼杵郡五ヶ瀬町大字鞍岡",
       "altitude": 590,
-      "anemometerHeight": 6.5,
+      "anemometerHeight": 10.2,
       "kana": "クラオカ",
       "kind": "四",
       "lat": 32.64333333333333,
@@ -15744,7 +15748,7 @@
     "88081": {
       "address": "伊佐市大口原田",
       "altitude": 175,
-      "anemometerHeight": 6.5,
+      "anemometerHeight": 10.2,
       "kana": "オオクチ",
       "kind": "四",
       "lat": 32.04666666666667,
@@ -15782,7 +15786,7 @@
     "88131": {
       "address": "薩摩川内市上甑町中甑",
       "altitude": 10,
-      "anemometerHeight": 6.5,
+      "anemometerHeight": 10.2,
       "kana": "ナカコシキ",
       "kind": "四",
       "lat": 31.835,
@@ -15796,7 +15800,7 @@
     "88151": {
       "address": "薩摩川内市中郷",
       "altitude": 5,
-      "anemometerHeight": 6.4,
+      "anemometerHeight": 10.0,
       "kana": "センダイ",
       "kind": "四",
       "lat": 31.833333333333332,
@@ -15875,7 +15879,7 @@
     "88331": {
       "address": "鹿屋市輝北町市成",
       "altitude": 360,
-      "anemometerHeight": 6.5,
+      "anemometerHeight": 10.0,
       "kana": "キホク",
       "kind": "四",
       "lat": 31.588333333333335,
@@ -16020,7 +16024,7 @@
     "88536": {
       "address": "肝属郡錦江町田代麓",
       "altitude": 182,
-      "anemometerHeight": 6.5,
+      "anemometerHeight": 10.2,
       "kana": "タシロ",
       "kind": "四",
       "lat": 31.198333333333334,
@@ -16108,7 +16112,7 @@
     "88736": {
       "address": "鹿児島郡十島村中之島",
       "altitude": 220,
-      "anemometerHeight": 6.5,
+      "anemometerHeight": 10.1,
       "kana": "ナカノシマ",
       "kind": "四",
       "lat": 29.84,
@@ -16289,7 +16293,6 @@
       "lat": 26.835,
       "lng": 128.27166666666668,
       "name": "奥",
-      "note2": "湿度を除く",
       "regionalBreau": "沖縄",
       "startDate": "#昭52.2.28",
       "thermometerHeight": 1.5
@@ -16417,7 +16420,6 @@
       "lat": 26.363333333333333,
       "lng": 127.97166666666666,
       "name": "宮城島",
-      "note2": "湿度を除く",
       "regionalBreau": "沖縄",
       "startDate": "平19.12.19",
       "thermometerHeight": 1.5
@@ -16470,7 +16472,6 @@
       "lat": 26.153333333333332,
       "lng": 127.765,
       "name": "糸数",
-      "note2": "湿度を除く",
       "regionalBreau": "沖縄",
       "startDate": "#昭52.3.3",
       "thermometerHeight": 1.5
@@ -16584,7 +16585,6 @@
       "lat": 24.506666666666668,
       "lng": 124.28,
       "name": "伊原間",
-      "note2": "湿度を除く",
       "regionalBreau": "沖縄",
       "startDate": "昭52.3.10",
       "thermometerHeight": 1.5
@@ -16671,7 +16671,6 @@
       "lat": 24.265,
       "lng": 123.87166666666667,
       "name": "大原",
-      "note2": "湿度を除く",
       "regionalBreau": "沖縄",
       "startDate": "昭53.3.14",
       "thermometerHeight": 1.5
@@ -16685,7 +16684,6 @@
       "lat": 24.055,
       "lng": 123.76666666666667,
       "name": "波照間",
-      "note2": "湿度を除く",
       "regionalBreau": "沖縄",
       "startDate": "昭54.3.2",
       "thermometerHeight": 1.5

@@ -4194,6 +4194,14 @@
       "seisSaibunCode": "210",
       "seisSaibunName": "岩手県沿岸北部"
     },
+    "0320701": {
+      "cityCode": "0320700",
+      "cityName": "久慈市",
+      "code": "0320701",
+      "name": "久慈枝成沢",
+      "seisSaibunCode": "210",
+      "seisSaibunName": "岩手県沿岸北部"
+    },
     "0320902": {
       "cityCode": "0320900",
       "cityName": "一関市",
@@ -5162,6 +5170,14 @@
       "seisSaibunCode": "342",
       "seisSaibunName": "千葉県南部"
     },
+    "1222301": {
+      "cityCode": "1222300",
+      "cityName": "鴨川市",
+      "code": "1222301",
+      "name": "鴨川内浦",
+      "seisSaibunCode": "342",
+      "seisSaibunName": "千葉県南部"
+    },
     "1222700": {
       "cityCode": "1222700",
       "cityName": "浦安市",
@@ -5258,10 +5274,10 @@
       "seisSaibunCode": "350",
       "seisSaibunName": "東京都２３区"
     },
-    "1311101": {
+    "1311102": {
       "cityCode": "1311100",
       "cityName": "東京大田区",
-      "code": "1311101",
+      "code": "1311102",
       "name": "Ｊ羽田航空",
       "seisSaibunCode": "350",
       "seisSaibunName": "東京都２３区"
@@ -5658,10 +5674,10 @@
       "seisSaibunCode": "380",
       "seisSaibunName": "富山県東部"
     },
-    "1620101": {
+    "1620102": {
       "cityCode": "1620100",
       "cityName": "富山市",
-      "code": "1620101",
+      "code": "1620102",
       "name": "富山市八尾町福",
       "seisSaibunCode": "380",
       "seisSaibunName": "富山県東部"
