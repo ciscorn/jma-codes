@@ -26,7 +26,9 @@ class AreaName:
 
 
 def make_matome_code_map() -> dict[str, MatomeProps]:
-    matome_code_map: dict[str, MatomeProps] = {}  # 予報区コードとその情報を対応づけるマップ
+    matome_code_map: dict[
+        str, MatomeProps
+    ] = {}  # 予報区コードとその情報を対応づけるマップ
 
     df_city_m_ww = pd.read_excel(
         get_filename_for("AreaInformationCity-AreaForecastLocalM.xls"),
@@ -116,7 +118,9 @@ def make_code_name_map(df_city) -> dict[str, AreaName]:
         kana = row["ふりがな"]
         if kana == "nan" or pd.isnull(kana):
             if not (kana := row["ふりがな.4"]) or (kana == "nan" or pd.isnull(kana)):
-                if not (kana := row["ふりがな.2"]) or (kana == "nan" or pd.isnull(kana)):
+                if not (kana := row["ふりがな.2"]) or (
+                    kana == "nan" or pd.isnull(kana)
+                ):
                     kana = row["ふりがな.1"]
 
         if name != "nan":
@@ -155,7 +159,9 @@ def process() -> None:
     for _, row in df_city.iterrows():
         code = str(row["@code"])
         name = str(row["@name"])
-        matome_code = str(row["属する「市町村等をまとめた地域等」\n(AreaForecastLocalMの@code値)"])
+        matome_code = str(
+            row["属する「市町村等をまとめた地域等」\n(AreaForecastLocalMの@code値)"]
+        )
         if matome_code and matome_code != "nan":
             spec = matome_code_map[matome_code]
             result[code] = {

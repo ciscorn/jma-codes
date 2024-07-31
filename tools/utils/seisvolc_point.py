@@ -216,15 +216,6 @@ def get_volc_points():
 def get_point_tsunami_locations() -> dict[str, PointTsunamiInfo]:
     r: dict[str, PointTsunamiInfo] = {}
 
-    with open("./datasrc/manual_input/point_tsunami.json", encoding="utf-8") as f:
-        data = json.load(f)
-
-    for code, item in data.items():
-        lat = item["lat_h"] + (item["lat_m"] / 60.0)
-        lng = item["lng_h"] + (item["lng_m"] / 60.0)
-        owner = item["owner"]
-        r[code] = PointTsunamiInfo(lat=lat, lng=lng, owner=owner)
-
     res = requests.get(
         "https://www.data.jma.go.jp/svd/eqev/data/bulletin/data/tsunami/stat_j.txt"
     )
@@ -238,7 +229,7 @@ def get_point_tsunami_locations() -> dict[str, PointTsunamiInfo]:
         encoding="cp932",
         skiprows=3,
         comment="#",
-        delim_whitespace=True,
+        sep=r"\s+",
         dtype={"度": float, "分": float, "度.1": float, "分.1": float},
     )
 
@@ -251,6 +242,18 @@ def get_point_tsunami_locations() -> dict[str, PointTsunamiInfo]:
         lat = row["度"] + (row["分"] / 60.0)
         lng = row["度.1"] + (row["分.1"] / 60.0)
         owner = row["所属機関"]
+        r[code] = PointTsunamiInfo(lat=lat, lng=lng, owner=owner)
+
+    with open("./datasrc/manual_input/point_tsunami.json", encoding="utf-8") as f:
+        data = json.load(f)
+
+    for code, item in data.items():
+        if code in r:
+            logger.warning(f"code {code} already exists")
+            continue
+        lat = item["lat_h"] + (item["lat_m"] / 60.0)
+        lng = item["lng_h"] + (item["lng_m"] / 60.0)
+        owner = item["owner"]
         r[code] = PointTsunamiInfo(lat=lat, lng=lng, owner=owner)
 
     return r

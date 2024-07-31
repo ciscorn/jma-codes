@@ -5,8 +5,7 @@ from typing import Any, cast
 
 import pandas as pd
 
-from . import seisvolc_point
-from .utils import get_filename_for
+from .utils import get_filename_for, seisvolc_point
 
 SHEETS_IGNORE: list[str] = ["エクセルシート一覧", "更新履歴"]
 
@@ -165,7 +164,7 @@ def process() -> None:
                 loc = locs.get(code)
                 if loc is None:
                     if not (code.startswith("0") and "沖" in item["name"]):
-                        print(code, item)  # raise an error
+                        print("no location found for", code, item)  # raise an error
                     continue
                 item["lnglat"] = [loc.lng, loc.lat]
                 item["owner"] = loc.owner

@@ -204,6 +204,12 @@
       "seisSaibunCode": "119",
       "seisSaibunName": "北海道奥尻島"
     },
+    "0137100": {
+      "cityCode": "0137100",
+      "cityName": "せたな町",
+      "seisSaibunCode": "110",
+      "seisSaibunName": "檜山地方"
+    },
     "0139100": {
       "cityCode": "0139100",
       "cityName": "島牧村",
@@ -1824,15 +1830,15 @@
       "seisSaibunCode": "442",
       "seisSaibunName": "静岡県中部"
     },
-    "2213100": {
-      "cityCode": "2213100",
-      "cityName": "浜松中区",
+    "2213800": {
+      "cityCode": "2213800",
+      "cityName": "浜松中央区",
       "seisSaibunCode": "443",
       "seisSaibunName": "静岡県西部"
     },
-    "2213500": {
-      "cityCode": "2213500",
-      "cityName": "浜松北区",
+    "2213900": {
+      "cityCode": "2213900",
+      "cityName": "浜松浜名区",
       "seisSaibunCode": "443",
       "seisSaibunName": "静岡県西部"
     },
@@ -1871,12 +1877,6 @@
       "cityName": "富士市",
       "seisSaibunCode": "441",
       "seisSaibunName": "静岡県東部"
-    },
-    "2221300": {
-      "cityCode": "2221300",
-      "cityName": "掛川市",
-      "seisSaibunCode": "443",
-      "seisSaibunName": "静岡県西部"
     },
     "2221500": {
       "cityCode": "2221500",
@@ -2031,6 +2031,12 @@
     "2454300": {
       "cityCode": "2454300",
       "cityName": "三重紀北町",
+      "seisSaibunCode": "462",
+      "seisSaibunName": "三重県南部"
+    },
+    "2456100": {
+      "cityCode": "2456100",
+      "cityName": "三重御浜町",
       "seisSaibunCode": "462",
       "seisSaibunName": "三重県南部"
     },
@@ -2343,12 +2349,6 @@
     "3042400": {
       "cityCode": "3042400",
       "cityName": "古座川町",
-      "seisSaibunCode": "551",
-      "seisSaibunName": "和歌山県南部"
-    },
-    "3042800": {
-      "cityCode": "3042800",
-      "cityName": "串本町",
       "seisSaibunCode": "551",
       "seisSaibunName": "和歌山県南部"
     },
@@ -3394,19 +3394,19 @@
       "seisSaibunCode": "141",
       "seisSaibunName": "北見地方"
     },
-    "0120801": {
-      "cityCode": "0120800",
-      "cityName": "北見市",
-      "code": "0120801",
-      "name": "北見市留辺蘂町",
-      "seisSaibunCode": "141",
-      "seisSaibunName": "北見地方"
-    },
     "0120803": {
       "cityCode": "0120800",
       "cityName": "北見市",
       "code": "0120803",
       "name": "常呂２",
+      "seisSaibunCode": "141",
+      "seisSaibunName": "北見地方"
+    },
+    "0120810": {
+      "cityCode": "0120800",
+      "cityName": "北見市",
+      "code": "0120810",
+      "name": "北見市留辺蘂町",
       "seisSaibunCode": "141",
       "seisSaibunName": "北見地方"
     },
@@ -3658,6 +3658,14 @@
       "seisSaibunCode": "119",
       "seisSaibunName": "北海道奥尻島"
     },
+    "0137100": {
+      "cityCode": "0137100",
+      "cityName": "せたな町",
+      "code": "0137100",
+      "name": "檜山せたな",
+      "seisSaibunCode": "110",
+      "seisSaibunName": "檜山地方"
+    },
     "0139100": {
       "cityCode": "0139100",
       "cityName": "島牧村",
@@ -3826,11 +3834,11 @@
       "seisSaibunCode": "142",
       "seisSaibunName": "紋別地方"
     },
-    "0157800": {
+    "0157810": {
       "cityCode": "0157800",
       "cityName": "白老町",
-      "code": "0157800",
-      "name": "白老町大町",
+      "code": "0157810",
+      "name": "白老町竹浦",
       "seisSaibunCode": "146",
       "seisSaibunName": "胆振地方中東部"
     },
@@ -4191,14 +4199,6 @@
       "cityName": "久慈市",
       "code": "0320700",
       "name": "久慈市川崎町",
-      "seisSaibunCode": "210",
-      "seisSaibunName": "岩手県沿岸北部"
-    },
-    "0320701": {
-      "cityCode": "0320700",
-      "cityName": "久慈市",
-      "code": "0320701",
-      "name": "久慈枝成沢",
       "seisSaibunCode": "210",
       "seisSaibunName": "岩手県沿岸北部"
     },
@@ -4586,11 +4586,11 @@
       "seisSaibunCode": "241",
       "seisSaibunName": "山形県最上"
     },
-    "0632100": {
+    "0632110": {
       "cityCode": "0632100",
       "cityName": "河北町",
-      "code": "0632100",
-      "name": "河北町谷地",
+      "code": "0632110",
+      "name": "河北町吉田",
       "seisSaibunCode": "242",
       "seisSaibunName": "山形県村山"
     },
@@ -4634,11 +4634,11 @@
       "seisSaibunCode": "240",
       "seisSaibunName": "山形県庄内"
     },
-    "0720100": {
+    "0720101": {
       "cityCode": "0720100",
       "cityName": "福島市",
-      "code": "0720100",
-      "name": "福島市松木町",
+      "code": "0720101",
+      "name": "福島市花園町",
       "seisSaibunCode": "250",
       "seisSaibunName": "福島県中通り"
     },
@@ -4946,11 +4946,11 @@
       "seisSaibunCode": "321",
       "seisSaibunName": "群馬県南部"
     },
-    "1020310": {
+    "1020301": {
       "cityCode": "1020300",
       "cityName": "桐生市",
-      "code": "1020310",
-      "name": "桐生市美原町",
+      "code": "1020301",
+      "name": "桐生市錦町",
       "seisSaibunCode": "321",
       "seisSaibunName": "群馬県南部"
     },
@@ -5306,10 +5306,10 @@
       "seisSaibunCode": "351",
       "seisSaibunName": "東京都多摩東部"
     },
-    "1320500": {
+    "1320510": {
       "cityCode": "1320500",
       "cityName": "青梅市",
-      "code": "1320500",
+      "code": "1320510",
       "name": "青梅市東青梅",
       "seisSaibunCode": "352",
       "seisSaibunName": "東京都多摩西部"
@@ -6154,26 +6154,26 @@
       "seisSaibunCode": "442",
       "seisSaibunName": "静岡県中部"
     },
-    "2213101": {
-      "cityCode": "2213100",
-      "cityName": "浜松中区",
-      "code": "2213101",
-      "name": "浜松中区高丘東",
+    "2213801": {
+      "cityCode": "2213800",
+      "cityName": "浜松中央区",
+      "code": "2213801",
+      "name": "浜松中央区高丘",
       "seisSaibunCode": "443",
       "seisSaibunName": "静岡県西部"
     },
-    "2213500": {
-      "cityCode": "2213500",
-      "cityName": "浜松北区",
-      "code": "2213500",
-      "name": "浜松北区三ヶ日",
+    "2213900": {
+      "cityCode": "2213900",
+      "cityName": "浜松浜名区",
+      "code": "2213900",
+      "name": "浜松浜名区三ヶ",
       "seisSaibunCode": "443",
       "seisSaibunName": "静岡県西部"
     },
-    "2213501": {
-      "cityCode": "2213500",
-      "cityName": "浜松北区",
-      "code": "2213501",
+    "2213901": {
+      "cityCode": "2213900",
+      "cityName": "浜松浜名区",
+      "code": "2213901",
       "name": "浜松滝沢",
       "seisSaibunCode": "443",
       "seisSaibunName": "静岡県西部"
@@ -6233,14 +6233,6 @@
       "name": "富士中野",
       "seisSaibunCode": "441",
       "seisSaibunName": "静岡県東部"
-    },
-    "2221300": {
-      "cityCode": "2221300",
-      "cityName": "掛川市",
-      "code": "2221300",
-      "name": "掛川篠場",
-      "seisSaibunCode": "443",
-      "seisSaibunName": "静岡県西部"
     },
     "2221500": {
       "cityCode": "2221500",
@@ -6338,10 +6330,10 @@
       "seisSaibunCode": "451",
       "seisSaibunName": "愛知県西部"
     },
-    "2321301": {
+    "2321310": {
       "cityCode": "2321300",
       "cityName": "西尾市",
-      "code": "2321301",
+      "code": "2321310",
       "name": "西尾市一色町",
       "seisSaibunCode": "451",
       "seisSaibunName": "愛知県西部"
@@ -6487,6 +6479,14 @@
       "cityName": "三重紀北町",
       "code": "2454300",
       "name": "三重紀北",
+      "seisSaibunCode": "462",
+      "seisSaibunName": "三重県南部"
+    },
+    "2456100": {
+      "cityCode": "2456100",
+      "cityName": "三重御浜町",
+      "code": "2456100",
+      "name": "三重御浜",
       "seisSaibunCode": "462",
       "seisSaibunName": "三重県南部"
     },
@@ -6922,14 +6922,6 @@
       "seisSaibunCode": "551",
       "seisSaibunName": "和歌山県南部"
     },
-    "3042801": {
-      "cityCode": "3042800",
-      "cityName": "串本町",
-      "code": "3042801",
-      "name": "和歌山串本",
-      "seisSaibunCode": "551",
-      "seisSaibunName": "和歌山県南部"
-    },
     "3120100": {
       "cityCode": "3120100",
       "cityName": "鳥取市",
@@ -7306,10 +7298,10 @@
       "seisSaibunCode": "600",
       "seisSaibunName": "徳島県北部"
     },
-    "3620201": {
+    "3620202": {
       "cityCode": "3620200",
       "cityName": "鳴門市",
-      "code": "3620201",
+      "code": "3620202",
       "name": "鳴門市撫養町",
       "seisSaibunCode": "600",
       "seisSaibunName": "徳島県北部"
@@ -7410,10 +7402,10 @@
       "seisSaibunCode": "611",
       "seisSaibunName": "香川県西部"
     },
-    "3820100": {
+    "3820101": {
       "cityCode": "3820100",
       "cityName": "松山市",
-      "code": "3820100",
+      "code": "3820101",
       "name": "松山市北持田町",
       "seisSaibunCode": "621",
       "seisSaibunName": "愛媛県中予"
@@ -7487,6 +7479,14 @@
       "cityName": "高知市",
       "code": "3920100",
       "name": "Ｊ高知",
+      "seisSaibunCode": "631",
+      "seisSaibunName": "高知県中部"
+    },
+    "3920101": {
+      "cityCode": "3920100",
+      "cityName": "高知市",
+      "code": "3920101",
+      "name": "高知春野",
       "seisSaibunCode": "631",
       "seisSaibunName": "高知県中部"
     },
@@ -7978,6 +7978,14 @@
       "seisSaibunCode": "752",
       "seisSaibunName": "大分県南部"
     },
+    "4420503": {
+      "cityCode": "4420500",
+      "cityName": "佐伯市",
+      "code": "4420503",
+      "name": "佐伯蒲江",
+      "seisSaibunCode": "752",
+      "seisSaibunName": "大分県南部"
+    },
     "4420600": {
       "cityCode": "4420600",
       "cityName": "臼杵市",
@@ -8042,19 +8050,19 @@
       "seisSaibunCode": "763",
       "seisSaibunName": "宮崎県南部山沿い"
     },
-    "4520301": {
-      "cityCode": "4520300",
-      "cityName": "延岡市",
-      "code": "4520301",
-      "name": "宮崎北方",
-      "seisSaibunCode": "760",
-      "seisSaibunName": "宮崎県北部平野部"
-    },
     "4520303": {
       "cityCode": "4520300",
       "cityName": "延岡市",
       "code": "4520303",
       "name": "Ｊ延岡",
+      "seisSaibunCode": "760",
+      "seisSaibunName": "宮崎県北部平野部"
+    },
+    "4520304": {
+      "cityCode": "4520300",
+      "cityName": "延岡市",
+      "code": "4520304",
+      "name": "宮崎北方２",
       "seisSaibunCode": "760",
       "seisSaibunName": "宮崎県北部平野部"
     },
@@ -8087,6 +8095,14 @@
       "cityName": "日向市",
       "code": "4520601",
       "name": "日向市亀崎",
+      "seisSaibunCode": "760",
+      "seisSaibunName": "宮崎県北部平野部"
+    },
+    "4520602": {
+      "cityCode": "4520600",
+      "cityName": "日向市",
+      "code": "4520602",
+      "name": "日向日知屋",
       "seisSaibunCode": "760",
       "seisSaibunName": "宮崎県北部平野部"
     },
@@ -8458,11 +8474,11 @@
       "seisSaibunCode": "804",
       "seisSaibunName": "沖縄県宮古島"
     },
-    "4721501": {
+    "4721502": {
       "cityCode": "4721500",
       "cityName": "南城市",
-      "code": "4721501",
-      "name": "玉城３",
+      "code": "4721502",
+      "name": "玉城４",
       "seisSaibunCode": "801",
       "seisSaibunName": "沖縄県本島中南部"
     },

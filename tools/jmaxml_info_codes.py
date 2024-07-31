@@ -35,7 +35,9 @@ def process() -> None:
             if not pd.isnull(value):
                 value = str(int(row["値"])).zfill(2)  # 数値に変換できる値である
                 desc = row["解説"]
-                desc = desc.replace('（Control/Title="気象警報・注意報"の場合には出現しない。）', "")
+                desc = desc.replace(
+                    '（Control/Title="気象警報・注意報"の場合には出現しない。）', ""
+                )
                 if currentCodeName not in result:
                     result[currentCodeName] = {}
                 result[currentCodeName][value] = desc
