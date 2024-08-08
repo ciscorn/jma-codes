@@ -28,10 +28,11 @@ def process() -> None:
     result = {}
     for _, row in df.iterrows():
         code = row["@code"]
+        lat = cast(float, row["緯度（度）"]) + cast(float, row["緯度（分）"]) / 60
+        lng = cast(float, row["経度（度）"]) + cast(float, row["経度（分）"]) / 60
         result[code] = {
             "point": row["コードが示す地点"],
-            "lat": cast(float, row["緯度（度）"]) + cast(float, row["緯度（分）"]) / 60,
-            "lng": cast(float, row["経度（度）"]) + cast(float, row["経度（分）"]) / 60,
+            "lnglat": [lng, lat],
         }
         name = (row["@name"],)
         if isinstance(name, str):
@@ -43,6 +44,28 @@ def process() -> None:
     with open("./json/WmoObservingStations.json", "w") as f:
         json.dump({"items": result}, f, sort_keys=True, ensure_ascii=False, indent=2)
         f.write("\n")
+
+    result_geojson = []
+    for item in result.values():
+        lnglat = item.pop("lnglat")
+        result_geojson.append(
+            {
+                "type": "Feature",
+                "properties": item,
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": lnglat,
+                },
+            }
+        )
+
+    with open("./json/WmoObservingStations.geojson", "w") as f:
+        json.dump(
+            {"type": "FeatureCollection", "features": result_geojson},
+            f,
+            ensure_ascii=False,
+            indent=2,
+        )
 
 
 if __name__ == "__main__":

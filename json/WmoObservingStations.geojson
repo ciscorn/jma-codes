@@ -1,0 +1,2214 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "稚内",
+        "kana": "わっかない"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.68333333333334,
+          45.416666666666664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "北見枝幸",
+        "kana": "きたみえさし"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.58333333333334,
+          44.93333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "羽幌",
+        "kana": "はぼろ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.7,
+          44.36666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "雄武",
+        "kana": "おうむ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.96666666666667,
+          44.583333333333336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "留萌",
+        "kana": "るもい"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.63333333333333,
+          43.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "旭川",
+        "kana": "あさひかわ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.36666666666667,
+          43.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "網走",
+        "kana": "あばしり"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.28333333333333,
+          44.016666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "小樽",
+        "kana": "おたる"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.01666666666668,
+          43.18333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "札幌",
+        "kana": "さっぽろ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.33333333333334,
+          43.06666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "岩見沢",
+        "kana": "いわみざわ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.78333333333333,
+          43.21666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "帯広",
+        "kana": "おびひろ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.21666666666667,
+          42.916666666666664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "釧路",
+        "kana": "くしろ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.38333333333333,
+          42.983333333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "根室",
+        "kana": "ねむろ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.58333333333334,
+          43.333333333333336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "寿都",
+        "kana": "すっつ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.21666666666667,
+          42.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "室蘭",
+        "kana": "むろらん"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.98333333333332,
+          42.31666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "苫小牧",
+        "kana": "とまこまい"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.55,
+          42.61666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "浦河",
+        "kana": "うらかわ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.78333333333333,
+          42.166666666666664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "江差",
+        "kana": "えさし"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.11666666666667,
+          41.86666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "函館",
+        "kana": "はこだて"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.75,
+          41.81666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "倶知安",
+        "kana": "くっちゃん"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.75,
+          42.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "紋別",
+        "kana": "もんべつ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.35,
+          44.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "広尾",
+        "kana": "ひろお"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.31666666666666,
+          42.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "大船渡",
+        "kana": "おおふなと"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.71666666666667,
+          39.06666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "新庄",
+        "kana": "しんじょう"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.31666666666666,
+          38.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "若松",
+        "kana": "わかまつ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.91666666666666,
+          37.483333333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "深浦",
+        "kana": "ふかうら"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.93333333333334,
+          40.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "青森",
+        "kana": "あおもり"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.76666666666668,
+          40.81666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "むつ",
+        "kana": "むつ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.21666666666667,
+          41.28333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "八戸",
+        "kana": "はちのへ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.51666666666668,
+          40.53333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "秋田",
+        "kana": "あきた"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1,
+          39.71666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "盛岡",
+        "kana": "もりおか"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.16666666666666,
+          39.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "宮古",
+        "kana": "みやこ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.96666666666667,
+          39.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "酒田",
+        "kana": "さかた"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.85,
+          38.916666666666664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "山形",
+        "kana": "やまがた"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.35,
+          38.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "仙台",
+        "kana": "せんだい"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.9,
+          38.266666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "石巻",
+        "kana": "いしのまき"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.3,
+          38.43333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "福島",
+        "kana": "ふくしま"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.46666666666667,
+          37.766666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "白河",
+        "kana": "しらかわ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.21666666666667,
+          37.13333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "小名浜",
+        "kana": "おなはま"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.9,
+          36.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "輪島",
+        "kana": "わじま"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.9,
+          37.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "相川",
+        "kana": "あいかわ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.23333333333332,
+          38.03333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "新潟",
+        "kana": "にいがた"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.05,
+          37.916666666666664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "金沢",
+        "kana": "かなざわ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.63333333333333,
+          36.583333333333336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "伏木",
+        "kana": "ふしき"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.05,
+          36.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "富山",
+        "kana": "とやま"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.2,
+          36.71666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "長野",
+        "kana": "ながの"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.2,
+          36.666666666666664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "高田",
+        "kana": "たかだ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.25,
+          37.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "宇都宮",
+        "kana": "うつのみや"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.86666666666667,
+          36.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "福井",
+        "kana": "ふくい"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.21666666666667,
+          36.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "高山",
+        "kana": "たかやま"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.25,
+          36.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "松本",
+        "kana": "まつもと"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.96666666666667,
+          36.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "諏訪",
+        "kana": "すわ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.11666666666667,
+          36.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "軽井沢",
+        "kana": "かるいざわ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.55,
+          36.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "前橋",
+        "kana": "まえばし"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.06666666666666,
+          36.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "熊谷",
+        "kana": "くまがや"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.38333333333333,
+          36.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "水戸",
+        "kana": "みと"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.46666666666667,
+          36.38333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "敦賀",
+        "kana": "つるが"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.06666666666666,
+          35.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "岐阜",
+        "kana": "ぎふ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.76666666666668,
+          35.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "名古屋",
+        "kana": "なごや"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.96666666666667,
+          35.166666666666664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "飯田",
+        "kana": "いいだ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.81666666666666,
+          35.516666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "甲府",
+        "kana": "こうふ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.55,
+          35.666666666666664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "河口湖",
+        "kana": "かわぐちこ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.76666666666668,
+          35.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "秩父",
+        "kana": "ちちぶ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.06666666666666,
+          35.983333333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "館野",
+        "kana": "たての"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.13333333333333,
+          36.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "銚子",
+        "kana": "ちょうし"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.85,
+          35.733333333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "上野",
+        "kana": "うえの"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.15,
+          34.766666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "津",
+        "kana": "つ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.51666666666668,
+          34.733333333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "伊良湖",
+        "kana": "いらこ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.1,
+          34.63333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "浜松",
+        "kana": "はままつ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.71666666666667,
+          34.71666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "御前崎",
+        "kana": "おまえざき"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.21666666666667,
+          34.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "静岡",
+        "kana": "しずおか"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.4,
+          34.983333333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "三島",
+        "kana": "みしま"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.93333333333334,
+          35.11666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "東京",
+        "kana": "とうきょう"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.76666666666668,
+          35.68333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "尾鷲",
+        "kana": "おわせ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.2,
+          34.06666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "石廊崎",
+        "kana": "いろうざき"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.85,
+          34.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "網代",
+        "kana": "あじろ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.1,
+          35.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "横浜",
+        "kana": "よこはま"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.65,
+          35.43333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "館山",
+        "kana": "たてやま"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.86666666666667,
+          34.983333333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "勝浦",
+        "kana": "かつうら"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.31666666666666,
+          35.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "大島",
+        "kana": "おおしま"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.36666666666667,
+          34.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "三宅島",
+        "kana": "みやけじま"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.51666666666668,
+          34.11666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "八丈島",
+        "kana": "はちじょうじま"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.78333333333333,
+          33.11666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "千葉",
+        "kana": "ちば"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1,
+          35.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "四日市",
+        "kana": "よっかいち"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.58333333333334,
+          34.93333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "日光",
+        "kana": "にっこう"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5,
+          36.733333333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "西郷",
+        "kana": "さいごう"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.33333333333334,
+          36.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "松江",
+        "kana": "まつえ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.06666666666666,
+          35.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "境",
+        "kana": "さかい"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.23333333333332,
+          35.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "米子",
+        "kana": "よなご"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.33333333333334,
+          35.43333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "鳥取",
+        "kana": "とっとり"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.23333333333332,
+          35.483333333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "豊岡",
+        "kana": "とよおか"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.81666666666666,
+          35.53333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "舞鶴",
+        "kana": "まいづる"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.31666666666666,
+          35.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "萩",
+        "kana": "はぎ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.4,
+          34.416666666666664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "浜田",
+        "kana": "はまだ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.06666666666666,
+          34.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "津山",
+        "kana": "つやま"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.01666666666668,
+          35.06666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "京都",
+        "kana": "きょうと"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.73333333333332,
+          35.016666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "彦根",
+        "kana": "ひこね"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.25,
+          35.28333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "下関",
+        "kana": "しものせき"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.93333333333334,
+          33.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "広島",
+        "kana": "ひろしま"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.46666666666667,
+          34.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "呉",
+        "kana": "くれ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.55,
+          34.233333333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "福山",
+        "kana": "ふくやま"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.25,
+          34.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "岡山",
+        "kana": "おかやま"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.91666666666666,
+          34.666666666666664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "姫路",
+        "kana": "ひめじ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.66666666666666,
+          34.833333333333336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "神戸",
+        "kana": "こうべ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.21666666666667,
+          34.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "大阪",
+        "kana": "おおさか"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.51666666666668,
+          34.68333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "洲本",
+        "kana": "すもと"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.9,
+          34.333333333333336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "和歌山",
+        "kana": "わかやま"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.16666666666666,
+          34.233333333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "潮岬",
+        "kana": "しおのみさき"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.76666666666668,
+          33.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "奈良",
+        "kana": "なら"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.83333333333334,
+          34.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "山口",
+        "kana": "やまぐち"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.45,
+          34.166666666666664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "厳原",
+        "kana": "いづはら"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.3,
+          34.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "平戸",
+        "kana": "ひらど"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.55,
+          33.36666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "福岡",
+        "kana": "ふくおか"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.38333333333333,
+          33.583333333333336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "飯塚",
+        "kana": "いいづか"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.7,
+          33.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "佐世保",
+        "kana": "させぼ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.73333333333332,
+          33.166666666666664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "佐賀",
+        "kana": "さが"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3,
+          33.266666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "日田",
+        "kana": "ひた"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.93333333333334,
+          33.31666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "大分",
+        "kana": "おおいた"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.61666666666667,
+          33.233333333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "長崎",
+        "kana": "ながさき"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.86666666666667,
+          32.733333333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "雲仙岳",
+        "kana": "うんぜんだけ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.26666666666668,
+          32.733333333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "熊本",
+        "kana": "くまもと"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.7,
+          32.81666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "阿蘇山",
+        "kana": "あそさん"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.06666666666666,
+          32.88333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "延岡",
+        "kana": "のべおか"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.65,
+          32.583333333333336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "阿久根",
+        "kana": "あくね"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.2,
+          32.03333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "人吉",
+        "kana": "ひとよし"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.75,
+          32.21666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "鹿児島",
+        "kana": "かごしま"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.55,
+          31.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "都城",
+        "kana": "みやこのじょう"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.08333333333334,
+          31.733333333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "宮崎",
+        "kana": "みやざき"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.41666666666666,
+          31.933333333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "枕崎",
+        "kana": "まくらざき"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3,
+          31.266666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "油津",
+        "kana": "あぶらつ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.4,
+          31.583333333333332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "屋久島",
+        "kana": "やくしま"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.66666666666666,
+          30.383333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "種子島",
+        "kana": "たねがしま"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.98333333333332,
+          30.716666666666665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "牛深",
+        "kana": "うしぶか"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.03333333333333,
+          32.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "福江",
+        "kana": "ふくえ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.83333333333334,
+          32.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "松山",
+        "kana": "まつやま"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.78333333333333,
+          33.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "多度津",
+        "kana": "たどつ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.75,
+          34.28333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "高松",
+        "kana": "たかまつ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.05,
+          34.31666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "宇和島",
+        "kana": "うわじま"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.55,
+          33.233333333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "高知",
+        "kana": "こうち"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.55,
+          33.56666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "徳島",
+        "kana": "とくしま"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.56666666666666,
+          34.06666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "宿毛",
+        "kana": "すくも"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.7,
+          32.916666666666664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "清水",
+        "kana": "しみず"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.01666666666668,
+          32.71666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "室戸岬",
+        "kana": "むろとみさき"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.18333333333334,
+          33.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "名瀬",
+        "kana": "なぜ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.5,
+          28.383333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "与那国島",
+        "kana": "よなぐにじま"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.01666666666667,
+          24.466666666666665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "西表島",
+        "kana": "いりおもてじま"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.76666666666667,
+          24.433333333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "石垣島",
+        "kana": "いしがきじま"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.16666666666667,
+          24.333333333333332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "宮古島",
+        "kana": "みやこじま"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.28333333333333,
+          24.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "久米島",
+        "kana": "くめじま"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8,
+          26.333333333333332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "那覇",
+        "kana": "なは"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.68333333333334,
+          26.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "名護",
+        "kana": "なご"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.96666666666667,
+          26.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "沖永良部",
+        "kana": "おきのえらぶ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.7,
+          27.433333333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "南大東島",
+        "kana": "みなみだいとうじま"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.23333333333332,
+          25.833333333333332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "父島",
+        "kana": "ちちじま"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.18333333333334,
+          27.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "南鳥島",
+        "kana": "みなみとりしま"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.98333333333332,
+          24.283333333333335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "鬱陵島"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.91666666666666,
+          37.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "木浦"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.38333333333334,
+          34.81666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "point": "済州"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.51666666666667,
+          33.5
+        ]
+      }
+    }
+  ]
+}
