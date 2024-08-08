@@ -70,7 +70,7 @@ def make_matome_code_map() -> dict[str, MatomeProps]:
     for _, row in itertools.chain(df_city_m_tornado.iterrows()):
         matome_code = str(row["コード\n(@code)"])
         ichiji_code = str(row["コード\n(@code).1"])
-        saibun_code = str(row["コード\n(@code).1"])
+        saibun_code = str(row["コード\n(@code).2"])
         if matome_code not in matome_code_map:
             matome_code_map[matome_code] = MatomeProps(
                 ichiji_code=ichiji_code,

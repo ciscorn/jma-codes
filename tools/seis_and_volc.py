@@ -179,6 +179,32 @@ def process() -> None:
             json.dump(result, f, sort_keys=True, ensure_ascii=False, indent=2)
             f.write("\n")
 
+    # PointVolcano の .geojson 版を作る
+    with open("./json/PointVolcano.json", "r", encoding="utf-8") as f:
+        data = json.load(f)
+
+    features = []
+    for volc in data["items"].values():
+        if lnglat := volc.pop("lnglat", None):
+            features.append(
+                {
+                    "type": "Feature",
+                    "properties": volc,
+                    "geometry": {"type": "Point", "coordinates": lnglat},
+                }
+            )
+
+    with open("./json/PointVolcano.geojson", "w", encoding="utf-8") as f:
+        json.dump(
+            {
+                "type": "FeatureCollection",
+                "features": features,
+            },
+            f,
+            ensure_ascii=False,
+            indent=2,
+        )
+
 
 if __name__ == "__main__":
     process()

@@ -1,0 +1,1761 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "101",
+        "kana": "しれとこいおうざん",
+        "name": "知床硫黄山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.161,
+          44.133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "102",
+        "kana": "らうすだけ",
+        "name": "羅臼岳"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.122,
+          44.076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "103",
+        "kana": "ましゅう",
+        "name": "摩周"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.561,
+          43.572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "104",
+        "kana": "あとさぬぷり",
+        "name": "アトサヌプリ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.439,
+          43.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "105",
+        "kana": "めあかんだけ",
+        "name": "雌阿寒岳"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.009,
+          43.386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "106",
+        "kana": "まるやま",
+        "name": "丸山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.031,
+          43.418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "107",
+        "kana": "たいせつざん",
+        "name": "大雪山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.854,
+          43.664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "108",
+        "kana": "とかちだけ",
+        "name": "十勝岳"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.686,
+          43.418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "109",
+        "kana": "たるまえさん",
+        "name": "樽前山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.377,
+          42.691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "110",
+        "kana": "えにわだけ",
+        "name": "恵庭岳"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.285,
+          42.793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "111",
+        "kana": "くったら",
+        "name": "倶多楽"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.144,
+          42.505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "112",
+        "kana": "うすざん",
+        "name": "有珠山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.839,
+          42.544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "113",
+        "kana": "ほっかいどうこまがたけ",
+        "name": "北海道駒ヶ岳"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.677,
+          42.063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "114",
+        "kana": "えさん",
+        "name": "恵山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.166,
+          41.805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "115",
+        "kana": "おしまおおしま",
+        "name": "渡島大島"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.367,
+          41.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "116",
+        "kana": "りしりざん",
+        "name": "利尻山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.242,
+          45.179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "117",
+        "kana": "ようていさん",
+        "name": "羊蹄山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.811,
+          42.827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "118",
+        "kana": "にせこ",
+        "name": "ニセコ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.641,
+          42.885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "119",
+        "kana": "てんちょうざん",
+        "name": "天頂山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.086,
+          44.044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "120",
+        "kana": "おあかんだけ",
+        "name": "雄阿寒岳"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.165,
+          43.454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "151",
+        "kana": "もよろだけ",
+        "name": "茂世路岳"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.838,
+          45.389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "152",
+        "kana": "ちりっぷさん",
+        "name": "散布山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.92,
+          45.338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "153",
+        "kana": "さしうすだけ",
+        "name": "指臼岳"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.019,
+          45.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "154",
+        "kana": "おだもいさん",
+        "name": "小田萌山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.918,
+          45.028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "155",
+        "kana": "えとろふやけやま",
+        "name": "択捉焼山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.871,
+          45.012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "156",
+        "kana": "えとろふあとさぬぷり",
+        "name": "択捉阿登佐岳"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.131,
+          44.808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "157",
+        "kana": "べるたるべさん",
+        "name": "ベルタルベ山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.932,
+          44.462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "158",
+        "kana": "ちゃちゃだけ",
+        "name": "爺爺岳"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.252,
+          44.353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "159",
+        "kana": "らうすさん",
+        "name": "羅臼山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.733,
+          43.979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "160",
+        "kana": "とまりやま",
+        "name": "泊山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.504,
+          43.844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "161",
+        "kana": "るるいだけ",
+        "name": "ルルイ岳"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.139,
+          44.454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "201",
+        "kana": "おそれざん",
+        "name": "恐山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.12,
+          41.279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "202",
+        "kana": "いわきさん",
+        "name": "岩木山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.303,
+          40.656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "203",
+        "kana": "はっこうださん",
+        "name": "八甲田山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.877,
+          40.659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "204",
+        "kana": "とわだ",
+        "name": "十和田"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.91,
+          40.459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "205",
+        "kana": "あきたやけやま",
+        "name": "秋田焼山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.757,
+          39.964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "206",
+        "kana": "はちまんたい",
+        "name": "八幡平"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.854,
+          39.958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "207",
+        "kana": "いわてさん",
+        "name": "岩手山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.001,
+          39.853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "208",
+        "kana": "あきたこまがたけ",
+        "name": "秋田駒ヶ岳"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.799,
+          39.761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "209",
+        "kana": "ちょうかいさん",
+        "name": "鳥海山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.049,
+          39.099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "210",
+        "kana": "くりこまやま",
+        "name": "栗駒山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.788,
+          38.961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "211",
+        "kana": "なるこ",
+        "name": "鳴子"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.734,
+          38.729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "212",
+        "kana": "ざおうざん（ざおうさん）",
+        "name": "蔵王山",
+        "note": "2つのふりがなを併記"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.44,
+          38.144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "213",
+        "kana": "あづまやま",
+        "name": "吾妻山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.244,
+          37.735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "214",
+        "kana": "あだたらやま",
+        "name": "安達太良山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.283,
+          37.633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "215",
+        "kana": "ばんだいさん",
+        "name": "磐梯山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.072,
+          37.601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "216",
+        "kana": "ひうちがたけ",
+        "name": "燧ヶ岳"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.285,
+          36.955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "217",
+        "kana": "ひじおり",
+        "name": "肘折"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.162,
+          38.599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "218",
+        "kana": "ぬまざわ",
+        "name": "沼沢"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.566,
+          37.444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "301",
+        "kana": "なすだけ",
+        "name": "那須岳"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.963,
+          37.125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "302",
+        "kana": "にっこうしらねさん",
+        "name": "日光白根山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.376,
+          36.799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "303",
+        "kana": "あかぎさん",
+        "name": "赤城山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.193,
+          36.56
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "304",
+        "kana": "はるなさん",
+        "name": "榛名山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.851,
+          36.477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "305",
+        "kana": "くさつしらねさん",
+        "name": "草津白根山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.528,
+          36.644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "306",
+        "kana": "あさまやま",
+        "name": "浅間山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.523,
+          36.406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "307",
+        "kana": "にいがたやけやま",
+        "name": "新潟焼山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.036,
+          36.921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "308",
+        "kana": "みょうこうさん",
+        "name": "妙高山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.114,
+          36.891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "309",
+        "kana": "みだがはら",
+        "name": "弥陀ヶ原"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.59,
+          36.571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "310",
+        "kana": "やけだけ",
+        "name": "焼岳"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.587,
+          36.227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "311",
+        "kana": "のりくらだけ",
+        "name": "乗鞍岳"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.554,
+          36.106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "312",
+        "kana": "おんたけさん",
+        "name": "御嶽山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.48,
+          35.893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "313",
+        "kana": "はくさん",
+        "name": "白山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.771,
+          36.155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "314",
+        "kana": "ふじさん",
+        "name": "富士山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.728,
+          35.361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "315",
+        "kana": "はこねやま",
+        "name": "箱根山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.021,
+          35.233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "316",
+        "kana": "いずとうぶかざんぐん",
+        "name": "伊豆東部火山群"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.095,
+          34.903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "317",
+        "kana": "いずおおしま",
+        "name": "伊豆大島"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.394,
+          34.724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "318",
+        "kana": "にいじま",
+        "name": "新島"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.27,
+          34.397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "319",
+        "kana": "こうづしま",
+        "name": "神津島"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.153,
+          34.219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "320",
+        "kana": "みやけじま",
+        "name": "三宅島"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.526,
+          34.094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "321",
+        "kana": "はちじょうじま",
+        "name": "八丈島"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.766,
+          33.137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "322",
+        "kana": "あおがしま",
+        "name": "青ヶ島"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.759,
+          32.458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "323",
+        "kana": "べよねーすれつがん",
+        "name": "ベヨネース列岩"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.918,
+          31.888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "324",
+        "kana": "すみすじま",
+        "name": "須美寿島"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.051,
+          31.44
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "325",
+        "kana": "いずとりしま",
+        "name": "伊豆鳥島"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.303,
+          30.484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "326",
+        "kana": "にしのしま",
+        "name": "西之島"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.874,
+          27.247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "327",
+        "kana": "かいとくかいざん",
+        "name": "海徳海山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.102,
+          26.127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "328",
+        "kana": "ふんかあさね",
+        "name": "噴火浅根"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.238,
+          25.455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "329",
+        "kana": "いおうとう",
+        "name": "硫黄島"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.289,
+          24.751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "330",
+        "kana": "きたふくとくたい",
+        "name": "北福徳堆"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.417,
+          24.417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "331",
+        "kana": "ふくとくおかのば",
+        "name": "福徳岡ノ場"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.481,
+          24.285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "333",
+        "kana": "たかはらやま",
+        "name": "高原山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.777,
+          36.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "334",
+        "kana": "よこだけ",
+        "name": "横岳"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.32,
+          36.087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "335",
+        "kana": "あかんだなやま",
+        "name": "アカンダナ山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.573,
+          36.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "336",
+        "kana": "としま",
+        "name": "利島"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.279,
+          34.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "337",
+        "kana": "みくらじま",
+        "name": "御蔵島"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.602,
+          33.874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "338",
+        "kana": "そうふがん",
+        "name": "孀婦岩"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.342,
+          29.794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "339",
+        "kana": "かいかたかいざん",
+        "name": "海形海山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.929,
+          26.667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "340",
+        "kana": "みなみひよしかいざん",
+        "name": "南日吉海山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.935,
+          23.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "341",
+        "kana": "にっこうかいざん",
+        "name": "日光海山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.326,
+          23.078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "342",
+        "kana": "なんたいさん",
+        "name": "男体山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.491,
+          36.765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "350",
+        "kana": "くさつしらねさん（しらねさん（ゆがまふきん））",
+        "name": "草津白根山（白根山（湯釜付近））"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.536,
+          36.643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "351",
+        "kana": "くさつしらねさん（もとしらねさん）",
+        "name": "草津白根山（本白根山）"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.527,
+          36.618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "401",
+        "kana": "さんべさん",
+        "name": "三瓶山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.622,
+          35.141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "502",
+        "kana": "くじゅうさん",
+        "name": "九重山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.249,
+          33.086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "503",
+        "kana": "あそさん",
+        "name": "阿蘇山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.104,
+          32.884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "504",
+        "kana": "うんぜんだけ",
+        "name": "雲仙岳"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.299,
+          32.761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "505",
+        "kana": "きりしまやま",
+        "name": "霧島山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.862,
+          31.934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "506",
+        "kana": "さくらじま",
+        "name": "桜島"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.657,
+          31.593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "507",
+        "kana": "かいもんだけ",
+        "name": "開聞岳"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.528,
+          31.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "508",
+        "kana": "さつまいおうじま",
+        "name": "薩摩硫黄島"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.305,
+          30.793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "509",
+        "kana": "くちのえらぶじま",
+        "name": "口永良部島"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.217,
+          30.443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "510",
+        "kana": "なかのしま",
+        "name": "中之島"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.857,
+          29.859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "511",
+        "kana": "すわのせじま",
+        "name": "諏訪之瀬島"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.714,
+          29.638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "512",
+        "kana": "あぶかざんぐん",
+        "name": "阿武火山群"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.402,
+          34.449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "513",
+        "kana": "つるみだけ・がらんだけ",
+        "name": "鶴見岳・伽藍岳"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.43,
+          33.287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "514",
+        "kana": "ゆふだけ",
+        "name": "由布岳"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.39,
+          33.282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "515",
+        "kana": "ふくえかざんぐん",
+        "name": "福江火山群"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.849,
+          32.657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "516",
+        "kana": "よねまる・すみよしいけ",
+        "name": "米丸・住吉池"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.592,
+          31.771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "517",
+        "kana": "わかみこ",
+        "name": "若尊"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.798,
+          31.663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "518",
+        "kana": "いけだ・やまがわ",
+        "name": "池田・山川"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.567,
+          31.213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "519",
+        "kana": "くちのしま",
+        "name": "口之島"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.926,
+          29.968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "550",
+        "kana": "きりしまやま（おはち）",
+        "name": "霧島山（御鉢）"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.91,
+          31.886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "551",
+        "kana": "きりしまやま（しんもえだけ）",
+        "name": "霧島山（新燃岳）"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.886,
+          31.909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "552",
+        "kana": "きりしまやま（えびのこうげん（いおうやま）しゅうへん）",
+        "name": "霧島山（えびの高原（硫黄山）周辺）"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.854,
+          31.947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "553",
+        "kana": "きりしまやま（おおはたいけ）",
+        "name": "霧島山（大幡池）"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.897,
+          31.926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "601",
+        "kana": "いおうとりしま",
+        "name": "硫黄鳥島"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.223,
+          27.881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "602",
+        "kana": "いりおもてじまほくほくとうかいていかざん",
+        "name": "西表島北北東海底火山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.933,
+          24.567
+        ]
+      }
+    }
+  ]
+}
